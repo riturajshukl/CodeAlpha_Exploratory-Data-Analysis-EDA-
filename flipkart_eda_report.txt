@@ -1,0 +1,14 @@
+Flipkart EDA Report
+==================
+Rows: 15
+Columns: ['product_name', 'category', 'brand', 'price', 'original_price', 'discount_percent', 'rating', 'reviews', 'stock', 'discount_amount', 'rating_bucket']
+
+Key questions:
+- Which product categories have the highest number of listings?
+- How does price vary across categories and brands?
+- Do higher-rated products also command higher prices?
+- Are there any unusual price or discount outliers?
+
+Summary:
+- Missing values: 0
+- Duplicates: 0
